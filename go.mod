@@ -1,4 +1,4 @@
-module github.com/coopch/mid-go-server
+module github.com/infomaniac/go-server
 
 go 1.18
 

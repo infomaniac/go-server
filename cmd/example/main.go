@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/coopch/mid-go-server"
+	"github.com/infomaniac/go-server"
 )
 
 func main() {
